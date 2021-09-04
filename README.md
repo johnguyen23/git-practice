@@ -18,6 +18,4 @@ Default editor is vim (this can be changed)
 
  ## test test
 
-## Merging
-
-Merging means to bring the changes from one branch to another.
+- A fast-forward merge happens when the target 
