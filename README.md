@@ -17,3 +17,7 @@ Default editor is vim (this can be changed)
  - `i` to enter
 
  ## test test
+
+## Merging
+
+Merging means to bring the changes from one branch to another.
