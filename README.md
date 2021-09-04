@@ -10,6 +10,13 @@
 - git config: Set or get configuration
 - git log: Show a history (AKA blah) of project commits
 - git merge: Mere chanes from different branches
+- git log: Show history of project commits
+- git branch: List branches
+- git checkout -b: Create branch, then check it checkout
+
+## What's a branch?
+
+A branch is a ref(erence) to a commit. When HEAD points
 
 ## Commit messages
 
