@@ -8,7 +8,7 @@
 - git add: Add changes from working directory to staging area
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
-- git log: Show history of project commits
+- git log: Show a history (AKA blah) of project commits
 - git merge: Mere chanes from different branches
 
 ## Commit messages
@@ -18,4 +18,4 @@ Default editor is vim (this can be changed)
 
  ## test test
 
-- A fast-forward merge happens when the target 
+- A fast-forward merge happens when the target
