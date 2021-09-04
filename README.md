@@ -17,6 +17,9 @@
 ## What's a branch?
 
 A branch is a ref(erence) to a commit. When HEAD points
+- git branch -c: Create a branch
+- git checkout: Check out (switch to) a branch
+
 
 ## Commit messages
 
@@ -25,5 +28,5 @@ Default editor is vim (this can be changed)
 
  ## test test
 
-
 - A fast-forward merge happens when the target branch was branched from the current one, and there are no new changes to the current branch since then.
+=======
