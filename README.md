@@ -9,6 +9,8 @@
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
 - git log: Show history of project commits
+- git show: Show history of project commits
+- git diff: Show the difference between commits, the working directory
 
 ## Commit messages
 
