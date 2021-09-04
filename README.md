@@ -16,4 +16,3 @@ Default editor is vim (this can be changed)
  - `i` to enter
 
  ## test test
- 
