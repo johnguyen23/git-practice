@@ -11,6 +11,7 @@
 - git log: Show a history (AKA blah) of project commits
 - git merge: Mere chanes from different branches
 - git log: Show history of project commits
+<<<<<<< HEAD
 - git branch: List branches
 - git checkout -b: Create branch, then check it checkout
 - git stash: Stash changes from working directory
@@ -21,6 +22,10 @@ A branch is a ref(erence) to a commit. When HEAD points
 - git branch -c: Create a branch
 - git checkout: Check out (switch to) a branch
 
+=======
+- git show: Show history of project commits
+- git diff: Show the difference between commits, the working directory
+>>>>>>> log-show-diff
 
 ## Commit messages
 
