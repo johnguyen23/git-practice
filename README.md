@@ -13,7 +13,8 @@
 - git log: Show history of project commits
 - git branch: List branches
 - git checkout -b: Create branch, then check it checkout
-
+- git stash: Stash changes from working directory
+- git stash pop: Apply stashed changes to working directory
 ## What's a branch?
 
 A branch is a ref(erence) to a commit. When HEAD points
