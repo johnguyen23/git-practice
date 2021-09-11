@@ -19,8 +19,9 @@
 - git remote add <remote> <url>: Add a new <remote> at <url>
 - git remote -v: List remote repositories
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
-- git fetch: fetch changes from remote repository 
- 
+- git fetch: fetch changes from remote repository
+- git pull: fetch and then merge
+
 ## What's a branch?
 
 A branch is a ref(erence) to a commit. When HEAD points
@@ -37,7 +38,13 @@ A branch is a ref(erence) to a commit. When HEAD points
 Default editor is vim (this can be changed)
  - `i` to enter
 
- ## test test
+## Merging
 
 - A fast-forward merge happens when the target branch was branched from the current one, and there are no new changes to the current branch since then.
 =======
+
+## What's a remote?
+
+A remote repo is one hosted somewhere other than our local machine. We can add remotes with `git remote add`, and set up *tracking branches* to track differences between our local and remote repositories.
+
+We push to remotes with `git push`, and fetch from them with `git fetch`. We can also fetch and merge in one set with `git pull`.
